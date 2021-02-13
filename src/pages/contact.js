@@ -7,7 +7,7 @@ const ContactPage = () => {
             <h1>Contact</h1>
             <p>Contact Information will show up here later on.</p>
             <p>
-                The best way to reach me is via <a href="https://twitter.com/" target="_blank">@MohammadRiyad1</a> on Twitter!
+                The best way to reach me is via <a href="https://twitter.com/MohammadRiyad01" target="_blank">@MohammadRiyad1</a> on Twitter!
             </p>
         </Layout>
     )
